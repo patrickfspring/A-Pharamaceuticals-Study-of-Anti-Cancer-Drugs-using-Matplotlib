@@ -1,4 +1,4 @@
-A Pymaceuticals Study on Anti-Cancer Drugs using Matplotlib
+A Pharmaceuticals Study on Anti-Cancer Drugs using Matplotlib
 
 The analysis and reporting for this project used Pandas, Python, and Matplotlib to study anti-cancer drug testing. 
 
